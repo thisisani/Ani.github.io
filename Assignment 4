@@ -1,0 +1,91 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Toy End-Effector</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h2>Toy End Effector</h2>
+            <p>
+            <img src="o10.JPG" width=500></a> 
+            </p>
+            <h4>
+            What is it? 
+            </h4>
+    <p>
+     A simple geared assembly that simulates a robot's end effector. Counteracting gears are used for the opening and closing action and a smaller gear is used to drive the motion.The mechanism here is neither geared up or geared down, but uses a 1:1 gearing ratio. 
+        
+            </p>
+    
+    <h4>
+        The Process
+    </h4>
+    <p>
+  I decided to create a test prototype initially and therefore used onshape to create the gears individually. The end effectors were designed in illustrator in order to be laser-cut.
+  0.3 Inch holes were drilled on the gears and a linear piece of wood. The Push-in rivets were used to fasten the gears onto the linear piece of wood. The end-effectors were then glued to the gears. 
+         <p>
+            <img src="m1.JPG" width=400></a> <img src="m4.JPG" width=400></a> 
+            </p>
+      
+     <p>The parts!!! The gears were 3d printed with PLA and the end effectors were laser-cut from scrap wood. .</p>
+    </p>
+<p>
+      <img src="m2.JPG" width=400></a> <img src="M3.JPG" width=400></a> 
+       
+    </p>
+<h5> Machine settings</h5>
+<p> Laser cutter: Vector- Power:90% , Speed 20%.</p> 
+<p> 3D printer: Nozzle temp: 235C, platform temp: 45C, 20% infill
+    
+ 
+    
+     
+<h4>
+   1.0 Testing!!!
+</h4>
+
+
+<p>
+    <img src="m5.JPG" width=400></a>   <img src="m6.JPG" width=400>  </a> 
+    
+            </p>
+            <p><img src="o9.JPG" width=400>  </a></p>
+<p>
+    This model was created as a simple test and therefore lacks precision in the rivet holes and gear movement. As for the 2.0, I plan to model
+    the entire assembly on onshape and use a motor to drive the gearing mechanism. 
+</p>
+
+
+<h4> Other Miscellaneous Stuff!!!</h4>
+
+ 
+<p>
+  <a href= https://drive.google.com/drive/folders/1iTc9oJ0PMkFcQoSwDKy75NQcozxpPXWq?usp=sharing> Source files</a>
+    
+    
+    
+    
+</p>
+<h4> 2.0 ?</h4>
+
+<p><img src="m7.JPG" width=400>  </a> </p>
+
+<p>
+   
+    
+</p>
+           
+
+  
+
+        </div>
+        
+    </body>
+</html>
